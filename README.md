@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Al-ijl</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=500&lines=I'm+a+back-end+developer;I'm+php+Laravel+developer;Software+engineering+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=600&lines=I'm+a+back-end+developer;I'm+php+Laravel+developer;Software+engineering+student" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [Instagram clone](https://github.com/Mohammed-Alijl/instagram)
 
