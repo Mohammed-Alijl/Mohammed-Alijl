@@ -7,11 +7,13 @@
 
 - 💬 Ask me about **php, Laravel framework, sql, mysql, api**
 
+- 🧑‍🎓 I’m currently learning: Computer Science and Software Engineering
+
 - 📫 How to reach me **moh.wa.2016@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/g45JgVLjj](https://resume.io/r/g45JgVLjj)
+- 🤔 I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://resume.io/r/g45JgVLjj)
 
-- ⚡ fact: **Climbing is the only way to reach the tops**
+- 🤓 Always learning new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
