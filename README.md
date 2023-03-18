@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Al-Ajl</h1>
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&width=1050&lines=I'm+a+back-end+developer;I'm+php+Laravel+developer;Software+engineering+student" alt="Typing SVG" /></a>
 
+****Hi Gaza Sky Geeks to see my web projects just go to my repositers or just scroll down you will say some of this projects.
+
 - 🔭 I’m currently working on [Invoices Dashboard](https://github.com/Mohammed-Alijl/invoices)
 
 - 👨‍💻 portofolio [Go to portofolio](https://2zztavbx6odbhctwqs2ozg.on.drv.tw/www.portofolio.com/portfolio.html)
