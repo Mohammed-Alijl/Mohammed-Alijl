@@ -4,6 +4,8 @@
 
 ***Hi Gaza Sky Geeks Team to see my web projects just go to my repositories or just scroll down you will see some of this projects***.
 
+***Projects that have used the Laravel framework are: Invoices Dashboard, Instagram API, E-commerce API, Social Media Website.  
+
 ***In every Front-end web project there is a link to see demo for this project***.
 
 
