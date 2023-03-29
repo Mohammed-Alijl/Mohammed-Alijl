@@ -4,7 +4,7 @@
 
 ***Hi Gaza Sky Geeks Team to see my web projects just go to my repositories or just scroll down you will see some of this projects***.
 
-***In every web project there is a link to see demo for this project***.
+***In every Front-end web project there is a link to see demo for this project***.
 
 
 - 🔭 I’m currently working on [Invoices Dashboard](https://github.com/Mohammed-Alijl/invoices)
