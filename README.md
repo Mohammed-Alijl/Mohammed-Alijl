@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **moh.wa.2016@gmail.com**
 
-- 🤔 I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME]([https://resume.io/r/g45JgVLjj](https://drive.google.com/file/d/1RLUi-vRty48x_xSCa940bWu5dbSuKDWP/view?usp=sharing))
+- 🤔 I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1RLUi-vRty48x_xSCa940bWu5dbSuKDWP/view?usp=sharing)
 
 - 🤓 Always learning new things
 
