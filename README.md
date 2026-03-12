@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Back-End+Developer+%7C+Laravel+Artisan;%F0%9F%8E%93+Software+Engineering+Student;%F0%9F%92%A1+Building+scalable+web+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Back-End+Developer+%7C+Laravel+Artisan;%F0%9F%92%A1+Building+scalable+web+solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,11 +47,11 @@ motto: "Always learning new things"
 </td>
 <td width="50%" valign="top">
 
-- 🔭 Currently building **[Multi Vendor Store](https://github.com/Mohammed-Alijl/Multi-Vendor-Store)**
-- 🎓 Studying **Computer Science & Software Engineering**
-- 💬 Ask me about **PHP · Laravel · SQL · MySQL · APIs**
+- 🔭 Currently building **[EduCore-ERP](https://github.com/Mohammed-Alijl/EduCore-ERP)**
+- 🎓 Studying **Software Engineering**
+- 💬 Ask me about **PHP · Laravel**
 - 🤓 Always exploring new technologies
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1RLUi-vRty48x_xSCa940bWu5dbSuKDWP/view?usp=sharing)**
+- 📄 Check out my **[Resume](https://flowcv.com/resume/lb547fsktm70)**
 - 🌐 Visit my **[Portfolio](https://2zztavbx6odbhctwqs2ozg.on.drv.tw/www.portofolio.com/portfolio.html)**
 
 </td>
@@ -103,8 +103,8 @@ motto: "Always learning new things"
 <h2 align="center">🚀 Featured Project</h2>
 
 <p align="center">
-  <a href="https://github.com/Mohammed-Alijl/Multi-Vendor-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Alijl&repo=Multi-Vendor-Store&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117" alt="Multi Vendor Store" />
+  <a href="https://github.com/Mohammed-Alijl/EduCore-ERP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Alijl&repo=EduCore-ERP&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117" alt="EduCore-ERP" />
   </a>
 </p>
 
