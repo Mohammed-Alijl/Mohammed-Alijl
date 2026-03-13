@@ -52,7 +52,7 @@ motto: "Always learning new things"
 - 💬 Ask me about **PHP · Laravel**
 - 🤓 Always exploring new technologies
 - 📄 Check out my **[Resume](https://flowcv.com/resume/lb547fsktm70)**
-- 🌐 Visit my **[Portfolio](https://2zztavbx6odbhctwqs2ozg.on.drv.tw/www.portofolio.com/portfolio.html)**
+- 🌐 Visit my **[Portfolio](Mohammed-Alijl.github.io)**
 
 </td>
 </tr>
@@ -180,7 +180,7 @@ motto: "Always learning new things"
   <a href="https://drive.google.com/file/d/1RLUi-vRty48x_xSCa940bWu5dbSuKDWP/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://2zztavbx6odbhctwqs2ozg.on.drv.tw/www.portofolio.com/portfolio.html" target="_blank">
+  <a href="Mohammed-Alijl.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
