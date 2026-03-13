@@ -127,7 +127,7 @@ motto: "Always learning new things"
 
 <p align="center">
   <a href="https://github.com/Mohammed-Alijl">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Alijl&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Mohammed-Alijl&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -135,9 +135,13 @@ motto: "Always learning new things"
 <!--                            TROPHIES                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Alijl&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Alijl&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </p>
 
