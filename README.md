@@ -132,18 +132,17 @@ motto: "Always learning new things"
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            TROPHIES                                   -->
+<!--                            Contribution Graph\                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Alijl&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <a href="https://github.com/Mohammed-Alijl">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Alijl&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" />
   </a>
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                       CONTRIBUTION GRAPH                              -->
