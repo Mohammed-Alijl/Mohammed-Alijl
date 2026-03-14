@@ -149,14 +149,12 @@ motto: "Always learning new things"
 <!--                       CONTRIBUTION GRAPH                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">📈 Contribution Graph</h2>
-
 <p align="center">
-  <a href="https://github.com/Mohammed-Alijl">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Alijl&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammed-Alijl/Mohammed-Alijl/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammed-Alijl/Mohammed-Alijl/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mohammed-Alijl/Mohammed-Alijl/output/github-snake-dark.svg">
+  </picture>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
