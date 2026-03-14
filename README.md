@@ -52,7 +52,7 @@ motto: "Always learning new things"
 - 💬 Ask me about **PHP · Laravel**
 - 🤓 Always exploring new technologies
 - 📄 Check out my **[Resume](https://flowcv.com/resume/lb547fsktm70)**
-- 🌐 Visit my **[Portfolio](Mohammed-Alijl.github.io)**
+- 🌐 Visit my **[Portfolio](https://Mohammed-Alijl.github.io)**
 
 </td>
 </tr>
@@ -165,7 +165,7 @@ motto: "Always learning new things"
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-al-ajl/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-alajel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:moh.wa.2016@gmail.com">
@@ -174,10 +174,10 @@ motto: "Always learning new things"
   <a href="https://github.com/Mohammed-Alijl" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://drive.google.com/file/d/1RLUi-vRty48x_xSCa940bWu5dbSuKDWP/view?usp=sharing" target="_blank">
+  <a href="https://flowcv.com/resume/lb547fsktm70" target="_blank">
     <img src="https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-  <a href="Mohammed-Alijl.github.io" target="_blank">
+  <a href="https://Mohammed-Alijl.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
