@@ -26,7 +26,7 @@
 <!--                            ABOUT ME                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
@@ -62,7 +62,7 @@ motto: "Always learning new things"
 <!--                           TECH STACK                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <h2 align="center">⚡ Tech Stack</h2>
 
@@ -98,7 +98,7 @@ motto: "Always learning new things"
 <!--                        FEATURED PROJECT                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <h2 align="center">🚀 Featured Project</h2>
 
@@ -112,7 +112,7 @@ motto: "Always learning new things"
 <!--                          GITHUB STATS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -135,7 +135,7 @@ motto: "Always learning new things"
 <!--                            Contribution Graph\                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -160,7 +160,7 @@ motto: "Always learning new things"
 <!--                         CONNECT WITH ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <h2 align="center">🤝 Let's Connect</h2>
 
