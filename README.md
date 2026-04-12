@@ -10,18 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mohammed-Alijl">
-    <img src="https://komarev.com/ghpvc/?username=Mohammed-Alijl&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Mohammed-Alijl?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mohammed-Alijl?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="Followers" />
-  </a>
-  <a href="https://github.com/Mohammed-Alijl?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Mohammed-Alijl?label=Stars&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="Stars" />
-  </a>
-</p>
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                            ABOUT ME                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
