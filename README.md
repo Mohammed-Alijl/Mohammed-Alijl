@@ -38,8 +38,7 @@
 name: Mohammed Alajel
 role: Back-End Developer
 focus: PHP / Laravel
-education: Software Engineering Student
-location: 🌍
+education: Software Engineering
 open_to_work: true
 motto: "Always learning new things"
 ```
@@ -48,9 +47,8 @@ motto: "Always learning new things"
 <td width="50%" valign="top">
 
 - 🔭 Currently building **[EduCore-ERP](https://github.com/Mohammed-Alijl/EduCore-ERP)**
-- 🎓 Studying **Software Engineering**
+- 🎓 Graduated **Software Engineering**
 - 💬 Ask me about **PHP · Laravel**
-- 🤓 Always exploring new technologies
 - 📄 Check out my **[Resume](https://flowcv.com/resume/lb547fsktm70)**
 - 🌐 Visit my **[Portfolio](https://Mohammed-Alijl.github.io)**
 
